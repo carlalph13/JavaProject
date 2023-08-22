@@ -1,3 +1,5 @@
+package class1;
+
 public class E4DataTypes {
     public static void main(String[] args) {
 
